@@ -1,4 +1,3 @@
-
 import mysql.connector
 from flask import jsonify
 
